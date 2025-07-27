@@ -2,6 +2,12 @@
 
 This portfolio showcases deep learning projects completed for CSE 151B: Deep Learning at UC San Diego (Winter 2025). Each project includes a detailed PDF report summarizing objectives, methods, results, and reflections.
 
+Unless otherwise noted, all projects were completed in a collaborative team of four students:
+- **Hikaru Isayama**
+- **Avi Mehta**
+- **Wilson Liao**
+- **Julia Wong**
+
 > 🔒 Code available upon request due to academic integrity policy (group coursework).
 
 ---
