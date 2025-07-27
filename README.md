@@ -1,38 +1,50 @@
-# 🧠 Deep Learning Portfolio
+# Deep Learning Portfolio
 
-A curated portfolio of my deep learning projects, spanning computer vision, NLP, and reinforcement learning. Each project includes code, results, and a technical write-up.
+This portfolio showcases deep learning projects completed for CSE 151B: Deep Learning at UC San Diego (Winter 2025). Each project includes a detailed PDF report summarizing objectives, methods, results, and reflections.
 
-## 📂 Projects
-
-### 1. Multi-Layer Neural Network on FashionMNIST
-From-scratch implementation of a 3-layer MLP with gradient checking and regularization.
-
-[View Project ➝](./FashionMNIST-MLP)
+> 🔒 Code available upon request due to academic integrity policy (group coursework).
 
 ---
 
-### 2. Semantic Segmentation on PASCAL VOC
-U-Net and ResNet-based architectures with augmentation, transfer learning, and IoU evaluation.
+## 📁 Projects
 
-[View Project ➝](./SemanticSegmentation-CNN)
+### 1. Multi-Layer Neural Network for FashionMNIST Classification
+- Built MLP from scratch using NumPy
+- Achieved 88% test accuracy with tanh, momentum, early stopping, and cross-entropy loss
+- [📄 Read the Report](./FashionMNIST-MLP/report.pdf)
 
 ---
 
-### 3. Character-Level LSTM for Text Generation
-Text generator trained on Shakespeare using LSTM, temperature scaling, and teacher forcing.
+### 2. Semantic Segmentation on PASCAL VOC-2012
+- Trained U-Net and ResNet-based FCNs in PyTorch
+- Reached 72% pixel accuracy and 0.1055 IoU
+- [📄 Read the Report](./PascalVOC-Segmentation/report.pdf)
 
-[View Project ➝](./Shakespeare-CharLSTM)
+---
+
+### 3. Character-Level LSTM for Shakespearean Text Generation
+- Built and tuned LSTM/RNN models on the TinyShakespeare dataset
+- Generated coherent text with 1.378 test loss and optimal temperature scaling
+- [📄 Read the Report](./Shakespeare-LSTM-TextGen/report.pdf)
 
 ---
 
 ### 4. Optimizing BERT for Scenario Classification
-Fine-tuned BERT with contrastive learning, LoRA, and SWA to improve zero-shot performance.
-
-[View Project ➝](./BERT-ContrastiveLearning)
+- Fine-tuned BERT on Amazon MASSIVE dataset
+- Used SupCon and SimCLR contrastive learning; achieved 91.5% accuracy
+- [📄 Read the Report](./BERT-Scenario-Classification/report.pdf)
 
 ---
 
-### 5. Deep Q-Learning for Tank Battle AI
-Custom PyGame environment and DQN agent with curriculum learning and reward shaping.
+### 5. Deep Q-Learning for Competitive Tank Battles
+- Custom PyGame environment + Dueling DQN + curriculum learning
+- Trained agents with 6/10 win rate against random bots
+- [📄 Read the Report](./DQN-Tank-Battle/report.pdf)
 
-[View Project ➝](./TankBattle-DQN)
+---
+
+## Contact
+
+Created by [Hikaru Isayama](https://github.com/SeanIsayama)  
+📧 hikaru.isayama@gmail.com  
+💬 Code available upon request
