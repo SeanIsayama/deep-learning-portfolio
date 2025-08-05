@@ -4,7 +4,7 @@
 **Winter 2025 @ UC San Diego**  
 **Programming Assignment 4**
 
-- 📄 [View Report (PDF)](./W25___CSE_151B_251B___PA4.pdf)  
+- 📄 [View Report (PDF)](./report.pdf)  
 - 🔒 Code available upon request (private repository, per course policy)
 
 ---
